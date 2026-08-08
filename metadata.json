@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "A bento-grid styled personal finance app featuring total balance overview, spending trends line chart, detailed transaction history, streamlined expense logging, donut chart analytics, and smart budget alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
